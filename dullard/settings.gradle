@@ -1,3 +1,0 @@
-include ':clinetapp'
-include ':app'
-rootProject.name = "dullard"

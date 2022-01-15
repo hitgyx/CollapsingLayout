@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clinetApp</string>
+    <string name="client_button">开启AIDL</string>
+    <string name="client_unbind_button">unbind AIDL</string>
+</resources>
